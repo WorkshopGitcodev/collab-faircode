@@ -1,6 +1,5 @@
 # A checklist to make software FAIR
 
-
 - [ ] Document your project dependencies
 - [ ] Provide instructions for replicating the computational environment
 - [ ] Installation instructions
