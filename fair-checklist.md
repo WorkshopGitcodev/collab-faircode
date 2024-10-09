@@ -9,4 +9,4 @@
 - [ ] Provide contribution [guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 - [ ] Provide software tests
 
-> For more visit: https://tu-delft-dcc.github.io/software/fair.html
+> For more visit: https://tu-delft-dcc.github.io/docs/software/checklist.html
